@@ -1,0 +1,13 @@
+Python with version 3.x
+install following libraries:
+	tkinter
+	pygame
+	random
+
+These codes are required to run the sound in the game as it fetches mixer in pygame.
+py.mixer.pre_init(44100,16,2,4096)
+
+User would need to change the location in codes for images and sounds depending on
+where the game is saved.
+
+Thanks & Enjoy!!!
